@@ -39,6 +39,11 @@ Forward-thinking problem solver, fast learner, proactive, and committed. Skilled
 
 ##
 
+### ⌚ Net time coding:
+[![wakatime](https://wakatime.com/badge/user/fba7c0f0-db04-4371-93b8-00436eeac021.svg)](https://wakatime.com/@fba7c0f0-db04-4371-93b8-00436eeac021)
+
+##
+
 ### 😊 Contact me:
 <div align="left">
 
