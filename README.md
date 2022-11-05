@@ -1,4 +1,4 @@
-### 🤗 Hello, I'm Guilherme Nunes
+### 🤗 Hello, I'm Guilherme Nunes 
 
 I am a proficient and enthusiastic software engineer with over 1 year of experience in full-stack development, with a focus on React and Node.Js. I have a master's degree in petroleum engineering and I worked for some years at UNICAMP developing research in the same area. This experience developed my self-education, my critical sense, my skills for textual production and my proficiency in English.
 
@@ -40,7 +40,10 @@ Forward-thinking problem solver, fast learner, proactive, and committed. Skilled
 ##
 
 ### ⌚ Coding time:
-[![wakatime](https://wakatime.com/badge/user/fba7c0f0-db04-4371-93b8-00436eeac021.svg)](https://wakatime.com/@fba7c0f0-db04-4371-93b8-00436eeac021)
+[![wakatime](https://wakatime.com/badge/user/fba7c0f0-db04-4371-93b8-00436eeac021.svg?style=for-the-badge)](https://wakatime.com/@fba7c0f0-db04-4371-93b8-00436eeac021)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Guilherme_NL&layout=compact&langs_count=6&theme=dracula)](https://github.com/Guilherme_NL/github-readme-stats)
+
 
 ##
 
@@ -50,4 +53,10 @@ Forward-thinking problem solver, fast learner, proactive, and committed. Skilled
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.nunes.lopes@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-nl/)
 </div>
+
+##
+
+### 🤗 Thanks for visiting my profile
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGuilherme-NL"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGuilherme-NL&label=VISITORS&countColor=%23263759&style=flat-square&labelStyle=upper" /></a>
 
