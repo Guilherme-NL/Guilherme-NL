@@ -14,7 +14,7 @@ Forward-thinking problem solver, fast learner, proactive, and committed. Skilled
 <div align="center">
   <a href="https://github.com/Guilherme-NL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-NL&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-NL&layout=compact&langs_count=9&theme=dracula"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-NL&theme=dracula"/>-->
   </a>
 </div>
 
