@@ -1,6 +1,6 @@
 ### 🤗 Hello, I'm Guilherme Nunes 
 
-I am a proficient and enthusiastic software engineer with over 1 year of experience in full-stack development, with a focus on React and Node.Js. I have a master's degree in petroleum engineering and I worked for some years at UNICAMP developing research in the same area. This experience developed my self-education, my critical sense, my skills for textual production and my proficiency in English.
+I am a proficient and enthusiastic software engineer with over 2 year of experience in full-stack development, with a focus on React and Node.Js. 
 
 ##
 
